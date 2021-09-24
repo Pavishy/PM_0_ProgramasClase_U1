@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <MASM Include="P0_Intro.asm" />
+    <MASM Include="P1_Variables.asm" />
+    <MASM Include="P2_Nombre_Pablo.asm" />
+    <MASM Include="P1_p2_Variable.asm" />
+    <MASM Include="P3_Registro.asm" />
+    <MASM Include="P2_Nombre_Esteven.asm" />
+    <MASM Include="P2_Nombre_Jorje.asm" />
+    <MASM Include="P2_Nombre_Mario.asm" />
+  </ItemGroup>
+  <ItemGroup>
+    <Object Include="..\..\..\..\Dropbox\ISWg211_Casanova Gomez Jorge Alberto\Prog de microprocesadores\Irvine\Lib32\Irvine32_Library\Irvine32.obj" />
+  </ItemGroup>
+</Project>
